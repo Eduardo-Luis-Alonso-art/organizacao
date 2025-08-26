@@ -1,0 +1,10 @@
+import "./carrosselInstrutores.js";
+import "./galeriaAnimacao.js";
+import "./calendario.js";
+import "./tabelaMobile.js";
+import "./pensamentoAnimacao.js";
+import "./scrollAutomatico.js";
+import "./carrosselMonitores.js";
+import "./headerScroll.js";
+import "./navegacaoLightbox.js";
+import "./feedbackTouch.js";
